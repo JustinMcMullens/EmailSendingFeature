@@ -1,0 +1,12 @@
+E:\EmailServiceFeature\EmailSenderLibrary\bin\Debug\net8.0\EmailSenderLibrary.deps.json
+E:\EmailServiceFeature\EmailSenderLibrary\bin\Debug\net8.0\EmailSenderLibrary.dll
+E:\EmailServiceFeature\EmailSenderLibrary\bin\Debug\net8.0\EmailSenderLibrary.pdb
+E:\EmailServiceFeature\EmailSenderLibrary\obj\Debug\net8.0\EmailSenderLibrary.csproj.AssemblyReference.cache
+E:\EmailServiceFeature\EmailSenderLibrary\obj\Debug\net8.0\EmailSenderLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\EmailServiceFeature\EmailSenderLibrary\obj\Debug\net8.0\EmailSenderLibrary.AssemblyInfoInputs.cache
+E:\EmailServiceFeature\EmailSenderLibrary\obj\Debug\net8.0\EmailSenderLibrary.AssemblyInfo.cs
+E:\EmailServiceFeature\EmailSenderLibrary\obj\Debug\net8.0\EmailSenderLibrary.csproj.CoreCompileInputs.cache
+E:\EmailServiceFeature\EmailSenderLibrary\obj\Debug\net8.0\EmailSenderLibrary.dll
+E:\EmailServiceFeature\EmailSenderLibrary\obj\Debug\net8.0\refint\EmailSenderLibrary.dll
+E:\EmailServiceFeature\EmailSenderLibrary\obj\Debug\net8.0\EmailSenderLibrary.pdb
+E:\EmailServiceFeature\EmailSenderLibrary\obj\Debug\net8.0\ref\EmailSenderLibrary.dll

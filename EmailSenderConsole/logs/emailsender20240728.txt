@@ -1,0 +1,7 @@
+2024-07-28 16:44:14.430 -06:00 [INF] Email sent to: j2mcmullens@gmail.com
+2024-07-28 16:44:14.444 -06:00 [INF] Subject: Final test
+2024-07-28 16:44:14.444 -06:00 [INF] Body: this is the final test and this is the body of the email
+2024-07-28 16:56:25.914 -06:00 [INF] Email sent to: j.mc.testing.email@gmail.com
+2024-07-28 16:56:25.927 -06:00 [INF] Email sent to: j2mcmullens@gmail.com
+2024-07-28 16:56:25.927 -06:00 [INF] Subject: test
+2024-07-28 16:56:25.927 -06:00 [INF] Body: etst
